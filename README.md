@@ -1,25 +1,26 @@
-### Hi there 👋
+## 📊 My Github Stats
 
-<!--
-**Abhishek4848/Abhishek4848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href="https://github.com/Abhishek4848/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4848&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-Here are some ideas to get you started:
+  <br/>
+    <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek V's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek4848&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek4848&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+<br/>
 
-## 🏆 GitHub Stats
-![Abhishek's Github stats](https://github-readme-stats.vercel.app/api?username=Abhishek4848&count_private=true&theme=tokyonight)
+<a href="https://github.com/Abhishek4848/github-readme-activity-graph"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek484828&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek4848&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<br/>
+<br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4848&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek4848&label=Profile%20views&color=129e00&style=plastic" alt="Abhishek4848" /> </p>
+## Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=Abhishek4848">
+</a>
+<a href="https://github.com/Abhishek4848?tab=followers"><img src="https://img.shields.io/github/followers/Abhishek4848?label=Followers&style=social" alt="GitHub Badge"></a>
