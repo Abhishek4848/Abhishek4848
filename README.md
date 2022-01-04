@@ -9,7 +9,6 @@
   <br/>
     <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek V's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek4848&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek4848&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
 
 <br/>
 <br/>
@@ -18,6 +17,16 @@
 
 <br/>
 <br/>
+
+## Languages
+<a href=""><img alt="" src="https://img.shields.io/badge/Python-FFA500?style=for-the-badge&logo=python&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/postgresql-00008B?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
