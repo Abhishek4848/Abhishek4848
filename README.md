@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek4848&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4848&theme=tokyonight)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhishek4848&label=Profile%20views&color=129e00&style=plastic" alt="Abhishek4848" /> </p>
