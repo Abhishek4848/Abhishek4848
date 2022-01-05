@@ -8,8 +8,8 @@
 
   <br/>
 <p float="left">
-    <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek V's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek4848&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek4848&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek4848&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+   <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek V's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek4848&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 </p>
 <br/>
 <br/>
