@@ -2,7 +2,7 @@
 
 <p align="center">
     <a href="https://github.com/Abhishek4848/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4848&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="Get streak stats for your profile at git.io/streak-stats" alt="Abhishek's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek4848&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
     <br/>
     <a href="https://github.com/Abhishek4848/github-readme-stats"><img alt="Abhishek V's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Abhishek4848&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
@@ -25,6 +25,18 @@
 <a href=""><img alt="" src="https://img.shields.io/badge/dart-FFC0CB?style=for-the-badge&logo=dart&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/postgresql-00008B?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+
+## Tools
+<a href=""><img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/MATLAB-%2300C4CC.svg?&style=for-the-badge&logo=MATLAB&logoColor=red" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/vim-5C5543?style=for-the-badge&logo=vim&logoColor=green" /></a>
+
 
 ## Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
