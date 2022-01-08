@@ -1,4 +1,4 @@
-## 📊 My Github Stats
+## My Github Stats
 
 <p align="center">
     <a href="https://github.com/Abhishek4848/github-readme-streak-stats">
