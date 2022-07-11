@@ -14,7 +14,7 @@
 <a href="https://github.com/Abhishek4848/github-readme-activity-graph"><img alt="Abhishek's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishek4848&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 --!>
 
-<img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek4848&theme=github_dark" />
+<p align = "center"><img alt="" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishek4848&theme=github_dark" /></p>
 
 <br/>
 <br/>
